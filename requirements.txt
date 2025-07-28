@@ -1,4 +1,3 @@
-plotly
-seaborn
-pandas
 shiny
+pandas
+matplotlib
